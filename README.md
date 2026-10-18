@@ -42,8 +42,8 @@ json.schemas 검색 ->편집
 
 VS Code 사용자 이메일 등록
 새 컴퓨터나 새로 설치한 Git에서 딱 한 번만 설정 해야함
-git config --global user.email "a01088619487@naver.com"
-git config --global user.name "a01088619487@naver.com"
+git config --global user.email "메일@.com"
+git config --global user.name "메일..@naver.com"
 git push --set-upstream origin master
 
 
